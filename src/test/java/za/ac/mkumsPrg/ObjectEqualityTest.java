@@ -1,9 +1,6 @@
 package za.ac.mkumsPrg;
 
-import org.junit.After;
-import org.junit.Assert;
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.*;
 
 /**
  * Created by Songezo on 2016-03-01.
@@ -21,8 +18,15 @@ public class ObjectEqualityTest {
     public void tearDown() throws Exception {
     }
 
+    @Ignore
     @Test
     public void testGender() throws Exception {
-        Assert.assertEquals(oE.num2(), oE.num1());
+
+        int one = oE.num1();
+        int two = oE.num2();
+
+        Assert.fail("fail");
+
+
     }
 }

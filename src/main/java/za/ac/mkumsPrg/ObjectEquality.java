@@ -6,7 +6,7 @@ package za.ac.mkumsPrg;
 public class ObjectEquality {
 
     public int num1() {
-        return 7;
+        return 9;
     }
 
     public int num2() {
