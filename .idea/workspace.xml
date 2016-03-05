@@ -2,74 +2,93 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33844ff0-e537-4530-8ce7-faed01651276" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/addingNum/target/classes/za/ac/calculate/cput/App.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/dividingNum/target/classes/za/ac/calculate/cput/App.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/multiplyingNum/target/classes/za/ac/calculate/cput/App.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/subtractingNum/target/classes/za/ac/calculate/cput/App.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/addingNum/target/test-classes/za/ac/calculate/cput/AppTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/dividingNum/target/test-classes/za/ac/calculate/cput/AppTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/multiplyingNum/target/test-classes/za/ac/calculate/cput/AppTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/subtractingNum/target/test-classes/za/ac/calculate/cput/AppTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/addingNum/target/classes/za/ac/calculate/cput/addNum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/addingNum/target/test-classes/za/ac/calculate/cput/addNumTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/dividingNum/target/classes/za/ac/calculate/cput/divideNum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/dividingNum/target/test-classes/za/ac/calculate/cput/divideNumTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/multiplyingNum/target/test-classes/za/ac/calculate/cput/mulitiplyNumTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/multiplyingNum/target/classes/za/ac/calculate/cput/multiplyNum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/subtractingNum/target/classes/za/ac/calculate/cput/subtractNum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/subtractingNum/target/test-classes/za/ac/calculate/cput/subtractNumTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/addingNum/src/main/java/za/ac/calculate/cput/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/dividingNum/src/main/java/za/ac/calculate/cput/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/multiplyingNum/src/main/java/za/ac/calculate/cput/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/src/main/java/za/ac/calculate/cput/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/subtractingNum/src/main/java/za/ac/calculate/cput/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/addingNum/src/test/java/za/ac/calculate/cput/AppTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/dividingNum/src/test/java/za/ac/calculate/cput/AppTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/multiplyingNum/src/test/java/za/ac/calculate/cput/AppTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/src/test/java/za/ac/calculate/cput/AppTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/subtractingNum/src/test/java/za/ac/calculate/cput/AppTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/Calculating.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/addingNum/src/main/java/za/ac/calculate/cput/addNum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/addingNum/src/test/java/za/ac/calculate/cput/addNumTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/addingNum/addingNum.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/dividingNum/src/main/java/za/ac/calculate/cput/divideNum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/dividingNum/src/test/java/za/ac/calculate/cput/divideNumTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/dividingNum/dividingNum.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/multiplyingNum/src/test/java/za/ac/calculate/cput/mulitiplyNumTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/multiplyingNum/src/main/java/za/ac/calculate/cput/multiplyNum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/multiplyingNum/multiplyingNum.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/addingNum/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/dividingNum/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/multiplyingNum/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/subtractingNum/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/subtractingNum/src/main/java/za/ac/calculate/cput/subtractNum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/subtractingNum/src/test/java/za/ac/calculate/cput/subtractNumTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/subtractingNum/subtractingNum.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Calculating/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160211-093840-IU-141.713\20160211-155102\threadDump-20160211-155102.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160211-093840-IU-141.713\20160211-155102\threadDump-20160211-155107.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160211-093840-IU-141.713\20160211-155102\threadDump-20160211-155113.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160211-093840-IU-141.713\20160211-155102\threadDump-20160211-155118.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160211-093840-IU-141.713\freeze-20160211-093850-30\threadDump-20160211-093850.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160211-093840-IU-141.713\freeze-20160211-093850-30\threadDump-20160211-093856.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160211-093840-IU-141.713\freeze-20160211-093850-30\threadDump-20160211-093901.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160211-093840-IU-141.713\freeze-20160211-093850-30\threadDump-20160211-093906.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160211-093840-IU-141.713\freeze-20160211-093850-30\threadDump-20160211-093911.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160211-093840-IU-141.713\freeze-20160211-093850-30\threadDump-20160211-093916.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160211-093840-IU-141.713\freeze-20160211-154929-15\threadDump-20160211-154929.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160211-093840-IU-141.713\freeze-20160211-154929-15\threadDump-20160211-154935.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160211-093840-IU-141.713\freeze-20160211-154929-15\threadDump-20160211-154940.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160212-082040-IU-141.713\freeze-20160212-082050-35\threadDump-20160212-082050.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160212-082040-IU-141.713\freeze-20160212-082050-35\threadDump-20160212-082055.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160212-082040-IU-141.713\freeze-20160212-082050-35\threadDump-20160212-082100.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160212-082040-IU-141.713\freeze-20160212-082050-35\threadDump-20160212-082105.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160212-082040-IU-141.713\freeze-20160212-082050-35\threadDump-20160212-082110.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160212-082040-IU-141.713\freeze-20160212-082050-35\threadDump-20160212-082115.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160212-082040-IU-141.713\freeze-20160212-082050-35\threadDump-20160212-082120.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160212-082040-IU-141.713\freeze-20160212-082200-5\threadDump-20160212-082200.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160212-082040-IU-141.713\freeze-20160212-082225-5\threadDump-20160212-082225.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160212-082040-IU-141.713\freeze-20160212-082246-5\threadDump-20160212-082246.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160212-082040-IU-141.713\freeze-20160212-140439-15\threadDump-20160212-140439.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160212-082040-IU-141.713\freeze-20160212-140439-15\threadDump-20160212-140449.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160212-082040-IU-141.713\freeze-20160212-140439-15\threadDump-20160212-140455.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160212-082040-IU-141.713\freeze-20160212-173027-5\threadDump-20160212-173027.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160214-224537-IU-141.713\freeze-20160214-224548-25\threadDump-20160214-224548.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160214-224537-IU-141.713\freeze-20160214-224548-25\threadDump-20160214-224553.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160214-224537-IU-141.713\freeze-20160214-224548-25\threadDump-20160214-224558.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160214-224537-IU-141.713\freeze-20160214-224548-25\threadDump-20160214-224603.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160214-224537-IU-141.713\freeze-20160214-224548-25\threadDump-20160214-224608.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160214-224537-IU-141.713\freeze-20160215-135539-5\threadDump-20160215-135539.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160204.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160210.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160215.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160220.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160226.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160231.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160236.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160241.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160248.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160253.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160259.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160304.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160310.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160315.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160320.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160325.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160331.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160337.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160342.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160347.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160352.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160357.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160402.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160407.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160412.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160417.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160422.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160427.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160432.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160437.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160442.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160447.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160452.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\20160216-160204\threadDump-20160216-160457.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\freeze-20160216-090310-35\threadDump-20160216-090310.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\freeze-20160216-090310-35\threadDump-20160216-090315.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\freeze-20160216-090310-35\threadDump-20160216-090320.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\freeze-20160216-090310-35\threadDump-20160216-090325.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\freeze-20160216-090310-35\threadDump-20160216-090330.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\freeze-20160216-090310-35\threadDump-20160216-090335.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\freeze-20160216-090310-35\threadDump-20160216-090340.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\freeze-20160216-160138-10\threadDump-20160216-160138.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-090300-IU-141.713\freeze-20160216-160138-10\threadDump-20160216-160144.txt" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-212036-IU-141.713\freeze-20160216-212046-20\threadDump-20160216-212046.txt" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-212036-IU-141.713\freeze-20160216-212046-20\threadDump-20160216-212051.txt" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-212036-IU-141.713\freeze-20160216-212046-20\threadDump-20160216-212056.txt" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Songezo\.IntelliJIdea14\system\log\threadDumps-20160216-212036-IU-141.713\freeze-20160216-212046-20\threadDump-20160216-212101.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/za/ac/mkumsPrg/ObjectEquality.class" afterPath="$PROJECT_DIR$/target/classes/za/ac/mkumsPrg/ObjectEquality.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/za/ac/mkumsPrg/ObjectEqualityTest.class" afterPath="$PROJECT_DIR$/target/test-classes/za/ac/mkumsPrg/ObjectEqualityTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/za/ac/mkumsPrg/Truth.class" afterPath="$PROJECT_DIR$/target/classes/za/ac/mkumsPrg/Truth.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/za/ac/mkumsPrg/TruthTest.class" afterPath="$PROJECT_DIR$/target/test-classes/za/ac/mkumsPrg/TruthTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/za/ac/mkumsPrg/ObjectEquality.java" afterPath="$PROJECT_DIR$/src/main/java/za/ac/mkumsPrg/ObjectEquality.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/za/ac/mkumsPrg/ObjectEqualityTest.java" afterPath="$PROJECT_DIR$/src/test/java/za/ac/mkumsPrg/ObjectEqualityTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/za/ac/mkumsPrg/TruthTest.java" afterPath="$PROJECT_DIR$/src/test/java/za/ac/mkumsPrg/TruthTest.java" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\AC\INetCookies\FIF4YJDO.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Songezo\AppData\Local\Packages\winstore_cw5n1h2txyewy\AC\INetCookies\65H3EW5F.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/za/ac/mkumsPrg/Integers.java" afterPath="$PROJECT_DIR$/src/main/java/za/ac/mkumsPrg/Integers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/za/ac/mkumsPrg/IntegersTest.java" afterPath="$PROJECT_DIR$/src/test/java/za/ac/mkumsPrg/IntegersTest.java" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/AppData/Roaming/IDM/foldresHistory.txt" afterPath="$USER_HOME$/AppData/Roaming/IDM/foldresHistory.txt" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Profile 1/Service Worker/CacheStorage/b29fd75021ac5176aed3e7052440ac33521fea01/index.txt" afterPath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Profile 1/Service Worker/CacheStorage/b29fd75021ac5176aed3e7052440ac33521fea01/index.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Calculating/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Calculating/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LabExce.iws" />
@@ -97,7 +116,7 @@
       <file leaf-file-name="IntegersTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/mkumsPrg/IntegersTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37634408">
+            <state vertical-scroll-proportion="0.5924933">
               <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
@@ -744,7 +763,7 @@
       <workItem from="1456928123120" duration="9496000" />
       <workItem from="1457093854304" duration="1604000" />
       <workItem from="1457101143888" duration="766000" />
-      <workItem from="1457173344099" duration="7044000" />
+      <workItem from="1457173344099" duration="7693000" />
     </task>
     <task id="LOCAL-00001" summary="checking it">
       <created>1457017789860</created>
@@ -762,11 +781,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42060000" />
+    <option name="totallyTimeSpent" value="42709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1378" height="754" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -776,8 +795,8 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283082" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32718122" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24886191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1288,7 +1307,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/mkumsPrg/IntegersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37634408">
+        <state vertical-scroll-proportion="0.5924933">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
