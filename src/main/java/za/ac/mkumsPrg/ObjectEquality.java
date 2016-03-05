@@ -10,6 +10,6 @@ public class ObjectEquality {
     }
 
     public int num2() {
-        return 7;
+        return 9;
     }
 }

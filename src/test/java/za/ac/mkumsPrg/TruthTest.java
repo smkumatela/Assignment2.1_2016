@@ -28,5 +28,6 @@ public class TruthTest {
     public void testTruth() throws Exception {
         Assert.assertTrue("this should be true", tr.checkTruth());
 
+
     }
 }

@@ -18,14 +18,15 @@ public class ObjectEqualityTest {
     public void tearDown() throws Exception {
     }
 
-    @Ignore
+    //@Ignore
     @Test
     public void testGender() throws Exception {
 
         int one = oE.num1();
         int two = oE.num2();
 
-        Assert.fail("fail");
+        //Assert.fail("fail");
+        Assert.assertEquals(one, two);
 
 
     }
