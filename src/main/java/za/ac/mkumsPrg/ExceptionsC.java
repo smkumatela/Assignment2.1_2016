@@ -5,10 +5,6 @@ package za.ac.mkumsPrg;
  */
 public class ExceptionsC {
 
-    public String MyException(String message){
-        return null;
-    }
-
     public int method1(int i) throws IllegalArgumentException{
         if (i<0)
             throw new IllegalArgumentException("value cannot be negative");
